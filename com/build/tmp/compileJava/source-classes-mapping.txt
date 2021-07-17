@@ -1,0 +1,6 @@
+chess/Gamer.java
+ chess.Gamer
+chess/Hourse.java
+ chess.Hourse
+chess/Figure.java
+ chess.Figure
