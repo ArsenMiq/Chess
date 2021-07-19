@@ -1,6 +1,31 @@
-chess/Gamer.java
- chess.Gamer
-chess/Hourse.java
- chess.Hourse
-chess/Figure.java
- chess.Figure
+chess/Spot.java
+ chess.Spot
+chess/figures/Bishop.java
+ chess.figures.Bishop
+chess/figures/Pawn.java
+ chess.figures.Pawn
+chess/controller/Move.java
+ chess.controller.Move
+chess/GameStatus.java
+ chess.GameStatus
+chess/controller/Player.java
+ chess.controller.Player
+chess/figures/Rook.java
+ chess.figures.Rook
+chess/figures/King.java
+ chess.figures.King
+chess/figures/Knight.java
+ chess.figures.Knight
+chess/controller/ComputerPlayer.java
+ chess.controller.ComputerPlayer
+chess/controller/HumanPlayer.java
+ chess.controller.HumanPlayer
+chess/Piece.java
+ chess.Piece
+chess/Board.java
+ chess.Board
+chess/Game.java
+ chess.Game
+combination/Combination.java
+ combination.Combination
+ combination.Combination$MyHandler
